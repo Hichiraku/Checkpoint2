@@ -31,4 +31,4 @@ Cela est possible, il suffit juste de crée une réservation pour le client sur 
 ![Pasted image 20231117101254.png](https://github.com/Hichiraku/Checkpoint2/blob/Ressources/Capture%20d'%C3%A9cran%202023-11-17%20131734.png?raw=true)
 
 Comme on peut le voir sur l'ipconfig suivant l'IPv4 de notre client est bien en 172.16.10.15
-![Pasted image 20231117101732.png](https://github.com/Hichiraku/Checkpoint2/blob/Ressources/Capture%20d'%C3%A9cran%202023-11-17%20131742.png?raw=true)https://github.com/Hichiraku/Checkpoint2/blob/Ressources/Capture%20d'%C3%A9cran%202023-11-17%20131742.png?raw=true
+![Pasted image 20231117101732.png](https://github.com/Hichiraku/Checkpoint2/blob/Ressources/Capture%20d'%C3%A9cran%202023-11-17%20131742.png?raw=true)
